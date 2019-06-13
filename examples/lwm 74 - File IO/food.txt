@@ -1,0 +1,5 @@
+broccoli
+cabbage
+curry
+bibimbap
+tacos
